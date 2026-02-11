@@ -17,7 +17,7 @@ I'm passionate about leveraging data analytics to empower businesses to make inf
 ## Certificates
 Here are some of the certifications I have achieved:
 
-- Excel: Mother of Business Intelligence - [View Credentials](link)
+- Excel: Mother of Business Intelligence - [View Credentials](https://drive.google.com/file/d/1qSBRmvcsMDHAzOltm5Bm3ro6ehhV64i4/view?usp=drive_link)
 - Get Job Ready: Power BI Data Analytics for All Levels 3.0 - [View Credentials](link)
 - SQL Beginner to Advanced For Data Professionals - [View Credentials](link)
 - Python: Beginner to Advanced For Data Professionals - [View Credentials]((link)
