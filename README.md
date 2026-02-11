@@ -1,9 +1,9 @@
 #  Hi there, I'm Naveen Akula ! 👋
 Welcome to my GitHub profile!
-I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, Python and Machine learning, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
+I'm passionate about leveraging Data Analytics and Science to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, Python and Machine learning, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
 
 ## About Me
-- 📊 Aspiring Data Analyst
+- 📊 Aspiring Data Science / Analyst
 - 📚 Currently Upskilling in Data Analyst Field
 - 🎓 Bachelor's of Engineering in Electronics and Communication
 ## Tools and Languages Used
@@ -23,7 +23,7 @@ Here are some of the certifications I have achieved:
 - Python: Beginner to Advanced For Data Professionals - [View Credentials](https://drive.google.com/file/d/1rJd6iv_njrjvKMd3dI1PyTQfgjIV7Gfc/view?usp=drive_link)
 - Machine Learning: Beginner to Advanced For Data Professionals - [View Credentials](https://drive.google.com/file/d/1Lskr9klETJJ0TAjd4jqBGOS13ol3dLcI/view?usp=drive_link)
 ## Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](link)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenml)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](link)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenpostbox77@gmail.com)
   
