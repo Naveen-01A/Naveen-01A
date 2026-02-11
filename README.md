@@ -1,10 +1,10 @@
 #  Hi there, I'm Naveen Akula ! 👋
 Welcome to my GitHub profile!
-I'm passionate about leveraging Data Analytics and Science to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, Python and Machine learning, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
+I'm passionate about leveraging Data Analytics and Science to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, Python, Businees Analysis and Machine learning, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
 
 ## About Me
-- 📊 Aspiring Data Science / Analyst
-- 📚 Currently Upskilling in Data Analyst Field
+- 📊 Aspiring Data Analyst
+- 📚 Currently Upskilling in Data Science Field
 - 🎓 Bachelor's of Engineering in Electronics and Communication
 ## Tools and Languages Used
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
