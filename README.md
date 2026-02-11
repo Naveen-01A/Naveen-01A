@@ -19,9 +19,9 @@ Here are some of the certifications I have achieved:
 
 - Excel: Mother of Business Intelligence - [View Credentials](https://drive.google.com/file/d/1qSBRmvcsMDHAzOltm5Bm3ro6ehhV64i4/view?usp=drive_link)
 - Get Job Ready: Power BI Data Analytics for All Levels 3.0 - [View Credentials](link)
-- SQL Beginner to Advanced For Data Professionals - [View Credentials](link)
-- Python: Beginner to Advanced For Data Professionals - [View Credentials]((link)
-- Data Analytics Bootcamp 5.0: With Practical Job Assistance + AI Module - [View Credentials](link)
+- SQL Beginner to Advanced For Data Professionals - [View Credentials](https://drive.google.com/file/d/168l7ZfEFB7K3PAsDKgzgOOVCmCs6XSmj/view?usp=drive_link)
+- Python: Beginner to Advanced For Data Professionals - [View Credentials](https://drive.google.com/file/d/1rJd6iv_njrjvKMd3dI1PyTQfgjIV7Gfc/view?usp=drive_link)
+- Machine Learning: Beginner to Advanced For Data Professionals - [View Credentials](https://drive.google.com/file/d/1Lskr9klETJJ0TAjd4jqBGOS13ol3dLcI/view?usp=drive_link)
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](link)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](link)
